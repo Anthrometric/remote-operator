@@ -1,0 +1,20 @@
+Development and validation of a new SA measure for remote driving videos
+
+Abstract
+Situation awareness (SA) needs during remote operation will differ to SA requirements during in-situ driving, 
+meaning that standard measurements to assess SA in driving may not be appropriate. This paper aims to address 
+the lack of standardisation in previous quantitative driving-related SA measures. Using the Taxonomy of Situation 
+Awareness (TSA) developed in previous research (see Mutzenich et al, 2021), we designed SA questions for sixteen 
+original driving videos. Each question was designed to measure a particular level of SA (perception, comprehension,
+and prediction). We conducted a pilot study (n = 12) to trial the new remote SA measure, using an iterative 
+qualitative and quantitative approach to revise and refine individual SA queries. We then utilised the SA measure
+in an experiment (n= 94) and conducted an exploratory factor analysis to identify the underlying constructs 
+of the instrument and to validate whether the questions successfully measured remote SA. Results suggest that
+the SA measure has four underlying constructs: factor 1 represents spatial and environmental awareness, 
+factor 2 represents anticipatory hazards, factor 3 dynamic driving actions and factor 4 represents other road users. 
+Internal consistency of the criterion set was evaluated by Cronbach's alpha coefficient at α= 0.832, 95% CI [0.734, 0.896].
+Factor loadings demonstrated that SA questions on perception, comprehension and prediction are combined when building
+awareness of a remote driving scene, which suggests that measurement tools designed to hold SA levels separate may be
+unsuitable in driving contexts. Our factor structure also corresponded with previous categorisation of the SA concepts
+that underpin remote driving SA from the TSA. Our research goes towards developing a validated tool to measure the SA 
+needs of remotely operating a vehicle.
